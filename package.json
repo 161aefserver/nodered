@@ -1,0 +1,12 @@
+{
+    "name": "DCS-Mgmt-Hub",
+    "description": "Workflows for DCS management Hub server",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_dcs-nodered.json",
+            "credentialsFile": "flows_dcs-nodered_cred.json"
+        }
+    }
+}
